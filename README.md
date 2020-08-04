@@ -1,16 +1,15 @@
-### Hi there 👋
+# 👋! This GitHub profile of Kumar Chetan Sharma!
 
-<!--
-**kumarldh/kumarldh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am your run of the mill full stack developer. I am very good with PHP(!surprising!), JavaScript(ES6 onwards and backwards) and node.js. I have worked on Java and can also do Python. Some interesting things about me:
+* I featured as a co author on a book on JavaScript. I am very much scared of JavaScript.
+* I call myself a full stack guy but I do not know what are JOINS in MySQL.
+* I have written an Android App, simple bots in JavaScript, Python and PHP but I could not write iterative way to calculate Fibonacci series.
+* I have pledged my eyes.
 
-Here are some ideas to get you started:
+If you are really interested in getting in touch, I can be found on linkedin, twitter, facebook and on github.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+BTW, this site seems to be mobile friendly. :-)
+
+[Mein blog](https://www.kumarchetan.com/blog/) | [LinkedIn](https://www.linkedin.com/in/kumarchetan) | [Git Gists](https://gist.github.com/kumarldh)
+
+
