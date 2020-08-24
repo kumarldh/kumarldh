@@ -1,4 +1,4 @@
-# 👋! This GitHub profile of Kumar Chetan Sharma!
+# 👋! This is GitHub profile of Kumar Chetan Sharma!
 
 I am your run of the mill full stack developer. I am very good with PHP(!surprising!), JavaScript(ES6 onwards and backwards) and node.js. I have worked on Java and can also do Python. Some interesting things about me:
 * I featured as a co author on a book on JavaScript. I am very much scared of JavaScript.
