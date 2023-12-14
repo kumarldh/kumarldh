@@ -10,6 +10,6 @@ If you are really interested in getting in touch, I can be found on linkedin, tw
 
  
 
-[Mein blog](https://www.kumarchetan.com/blog/) | [LinkedIn](https://www.linkedin.com/in/kumarchetan) | [Git Gists](https://gist.github.com/kumarldh)
+[LinkedIn](https://www.linkedin.com/in/kumarchetan) | [Git Gists](https://gist.github.com/kumarldh)
 
 
